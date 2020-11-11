@@ -62,7 +62,7 @@ public class LoginActivity extends AppCompatActivity {
                     public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                         if(dataSnapshot.exists()){
 
-                            String passwordFromFirebase = dataSnapshot.child("password_akun").getValue().toString();
+                            String passwordFromFirebase = dataSnapshot.child("PASSWORD_AKUN").getValue().toString();
 
                             if(password.equals(passwordFromFirebase)){
                                 SharedPreferences sharedPreferences = getSharedPreferences(USERNAME_KEY, MODE_PRIVATE);
