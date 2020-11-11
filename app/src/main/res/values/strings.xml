@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Projectjssv2</string>
+    <string name="logo_dinas" />
+    <string name="login">LOGIN</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="edt_username">Masukkan Username</string>
+    <string name="edt_password">Masukkan Password</string>
+    <string name="txt_daftar">DAFTAR</string>
+    <string name="txt_login">LOGIN</string>
+    <string name="txt_aktivasi_ulang">Aktivasi akun gagal? Aktivasi Ulang disini</string>
+    <string name="edt_nik">Masukkan nomor NIK / KTP</string>
+    <string name="txt_batal">BATALKAN</string>
+    <string name="lupa_password">LUPA PASSWORD</string>
+    <string name="edt_email">Masukkan alamat email</string>
+    <string name="txt_kirim_verifikasi">KIRIM KODE VERIFIKASI KE EMAIL</string>
+    <string name="txt_aktivasi_akun">AKTIVASI AKUN</string>
+    <string name="txt_aktivasi_ulang_akun">AKTIVASI ULANG AKUN</string>
+
+
+    <string name="nomor_nik_ktp">Nomor NIK / KTP</string>
+    <string name="nama_sesuai_ktp_kk">Nama Sesuai KTP / KK</string>
+    <string name="alamat_rumah">Alamat Rumah</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="username_untuk_login">Username untuk Login</string>
+    <string name="buat_password_baru">Buat Password Baru</string>
+    <string name="ketik_ulang_password_baru">Ketik Ulang Password Baru</string>
+    <string name="syarat_dan_ketentuan"><u>Syarat dan Ketentuan</u></string>
+
+
+    <string name="apakah_anda_warga_luar_kota_yogyakarta">Apakah anda warga luar Kota Yogyakarta ?</string>
+    <string name="nik_yang_anda_masukkan_terdeteksi_nik_warga_luar_kota_yogyakarta">NIK yang anda masukkan terdeteksi NIK warga Luar Kota Yogyakarta</string>
+    <string name="daftar_baru">DAFTAR BARU</string>
+    <string name="daftar_akun_baru">DAFTAR AKUN BARU</string>
+    <string name="dengan_ini_anda_setuju_mengikuti_syarat_dan_ketentuan_yang_berlaku">Dengan ini anda setuju mengikuti Syarat dan Ketentuan yang berlaku</string>
+
+    <string name="show_dialog">Show dialog</string>
+    <string name="apakah_anda_warga_kota_yogyakarta">Apakah anda warga Kota Yogyakarta ?</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.AlertActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="@string/apakah_anda_warga_kota_yogyakarta"
+        />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nik_yang_anda_masukkan_terdeteksi_nik_warga_luar_kota_yogyakarta"
+        />
+
+    <Button
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="YA"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/acceptButton"
+        />
+
+    <Button
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TIDAK"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:id="@+id/cancelButton"
+        />
+
+
+
+
+</LinearLayout>
